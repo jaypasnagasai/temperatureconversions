@@ -1,5 +1,3 @@
-# Temperature Conversions
-
 # Temperature Converter
 
 This is a simple temperature converter program written in Python. It can convert temperatures between Celsius, Fahrenheit, and Kelvin.
